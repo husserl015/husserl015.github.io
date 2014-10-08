@@ -15,7 +15,7 @@ pages_list:
   Archive: '/archive'
   Resume: '/resume'
   
-paginate: 2
+paginate: 3
   
 #
 # Flags below are optional
