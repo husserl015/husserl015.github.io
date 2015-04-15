@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/damonachey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.achey.net
+  * I am damonachey (https://keybase.io/damonachey) on keybase.
+  * I have a public key with fingerprint F335 66DA 8F17 983D 5C4C  2645 2117 2D75 FE1E EE9A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f33566da8f17983d5c4c264521172d75fe1eee9a",
+            "host": "keybase.io",
+            "key_id": "21172d75fe1eee9a",
+            "kid": "010157d0c5f828a351f72a2da0f41768f3d9c93ea3e5cda8fc19b3680b7fdea638920a",
+            "uid": "f6ba76621f86f4a78e0bf295ab1ecd19",
+            "username": "damonachey"
+        },
+        "service": {
+            "hostname": "www.achey.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429059618,
+    "expire_in": 157680000,
+    "prev": "196551f52195ccf9c87d8b3cfeceb9655bef8018d3e0ac5a11da9ba089c2ca72",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMMzAnicbVJ9TFVlHL6QkJci5crX/LjBcYKLe9n5uOfrKrKWy9RBBRoO897e8573
+cM/Acy73A7gBwwlrjMSyFBF1lijJckVNHBtQQkA0EViXj0gFKx1m4mIjTRbYOcz+
+6/3n3fv7Pc/z/p5nv57IZwwRIYlxVv+i+UFDyNWuV/yG3dY2rBQTVDGA2UuxfLR0
+SbKShzxuj6z4MDsmURTNMCLgJILlOUqkoQ2SjI0mCYIlRZaWEIEQ4gFmwVyqV2do
+MgLwolRZ1WrawymLWvV/8PlLDZzACZoVcUhLHMkBiiYklgSkCHDJRrAMJ1EiD3kK
+AQrRUJ8DErxAMRwusJKIAENxPInrcv4lOYkRAMswJCFxjGQDLIdwQSJ5GggEgiLB
+60Av8ihgP9LQItivKgC6NOflFkyrF8kQ6SHoXp5iiouLU5cgqQryaXS3R/WpUC3Q
+Wi6fz23Xmb6AewmKBOdTEacgK6KWpEYoQh6vrCqYndCQ0CfrqoSN5HGaZwjOgqES
+t+xBTllH0JpjXDv6N6hIkyR4htYi0fLmaQglHnKsyAkUlBBEgt4TkMThBCdSCAeQ
+BgQhAl4AOMdDEgKWxHRbhYqK2RltTJCnSXrlPAX4/B6ElXd3vb3MEBJhCA8L1XfB
+EGFc+d+G5E2sNFQVpAWNroqEoWB61cvv/J41cn5m8+WPpmcaSi8+yZoT0rY9io5s
+fC7/RrPpel3ld3hyel5FIsdeA4nvzk46cyodY0W3B06cDihH41sOF4QODDXEZMJL
+ty8NjI6Lm3wb2QNZU8MWUzexJ/bVb08OKQ9jL5P+x8+Km99YjyVuDWQbzL9O3Toy
+UsXWf7lmT1xv9YhvetIJ4qwHMj71/5DuTUhZNRl27w/bT5+zfUlXD0WteyTD5bvX
+v5baujpuZoHIbFp9tlJJy65LvDCxL2ohf/pgWZe6tWA80H22w7Xh0Mlg3+KVH+fr
+t/d8s2qbMS6Z3j58L9macKqvbMfwrpLf7rRMbHypJqff3zv1dUVGrmPvuS/eC7bc
+Cfk72Pzm+03xvyQBR3zJ/F+fhKxxmKoHI8ealI4XWseMR7wPYq53jlPH2kca7zZ6
+njcGV9xsFsvrXzdPdkLzaO33tS1hzemDrbcKFw/OFpnFf1D44w+rkS+8/3T+Tltp
+2D5TuzD32Xx1V2j6aFXBjpvLBjs2fWBWzdEpTzqH9rrg2nV/vhVWteurhdD7k1hM
+jfN4Q/zP1wZ2DkLTWHfj2tLiunM3hvGyNGvb3PmL/StitzhqOpLaN5wZdtnVj9ty
+u6MuFM4+vLLFOLb8fu2pwNFUTjrjduTMRTf1YNnWcjIj95iltffuiw2WehPMBCmt
+/wJ+y6aV
+=6RKz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damonachey
+
+==================================================================
