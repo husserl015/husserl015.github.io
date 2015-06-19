@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Achey.Net
+name: husserl015
 
 # Short bio or description (displayed in the header)
 description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/1005594?v=2
+avatar: https://avatars.githubusercontent.com
 
 pages_list:
   Archive: '/archive'
@@ -24,22 +24,22 @@ paginate: 3
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: Damon@Achey.Net
-  facebook: damonachey
+  email: 
+  facebook: 
   flickr: 
-  github: damonachey
+  github: lusserl015
   instagram: 
-  linkedin: damonachey
+  linkedin: 
   pinterest: 
   rss: yes # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: damon_achey
-  stackoverflow: users/200807/damon-achey # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow:  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: blogacheynet
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-54257514-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
